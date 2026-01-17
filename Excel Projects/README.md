@@ -12,13 +12,13 @@ These reports demonstrate skills in:
    - **Description**: This Excel project provides an in-depth analysis of Adidas' sales performance, focusing on revenue trends, product popularity, customer preferences, and category-wise sales distribution. Using Pivot Tables, Charts, and Data Analysis techniques
    - **Target Audience**: Designed for business analysts, sales managers, and executives to track sales performance, identify best-selling products, and optimize marketing. 
    - **Tools**: Excel (Power Query - Power Pivot)
-   - **Folder**: `Adidas-Sales-Analysis/`
+   - **Folder**: `Adidas Sales Analysis/`
 
 2. **IMDb Movies Analysis**:
    - **Description**: This project provides a comprehensive analysis of the movie industry, focusing on **profitability, ROI, audience engagement, and rating trends**. The analysis uncovers insights into the **top 10 most profitable countries, the best-performing genres by ROI, and the financial impact of different movie languages**. Additionally, it explores whether **Facebook likes and IMDb ratings influence profitability** and conducts an in-depth **ratings analysis**.  
    - **Target Audience**: Designed for **movie producers, investors, analysts, and marketers** looking to understand key factors affecting movie profitability and audience reception.  
    - **Tools**: Excel (Pivot Tables - Data Visualization) 
-   - **Folder**: `IMDb-Movies-Analysis/`
+   - **Folder**: `IMDb Movies Analysis/`
 
 
 ## How to Use This Folder
