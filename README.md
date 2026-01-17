@@ -19,5 +19,4 @@ Welcome to my Data Analyst portfolio! This repository contains a collection of p
 ## Contact
 For questions or feedback, feel free to reach out:
 - **Email**: hamzakaram535@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/abdelrahman-gamal121
 - **GitHub**: https://github.com/HamzaKaram01
